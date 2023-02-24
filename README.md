@@ -1,4 +1,4 @@
-Grab the and run prepared fakezod. Alternatively, make your own and commit the stuff inside the `desk` folder and `|revive %reconnect-test`.
+Grab and run the prepared fakezod. Alternatively, make your own and commit the stuff inside the `desk` folder and `|revive %reconnect-test`.
 ```
 curl https://urbit-foundation.s3.us-east-2.amazonaws.com/zod.zip >> zod.zip
 unzip zod
